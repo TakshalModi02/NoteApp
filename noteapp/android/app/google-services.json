@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "364037979183",
+    "project_id": "notesapp-4afb2",
+    "storage_bucket": "notesapp-4afb2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:364037979183:android:57d87145c0111a4bdbdada",
+        "android_client_info": {
+          "package_name": "com.example.taskapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "364037979183-hklcdo3ggmmcfe2qla14bel4p06pb50s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTJf9Eqvta05NzyH_lTCBc5tcJg1PQP0s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "364037979183-hklcdo3ggmmcfe2qla14bel4p06pb50s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
